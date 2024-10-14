@@ -26,8 +26,9 @@ namespace Tyuiu.KornevRM.Sprint2.Task5.V12
             Console.WriteLine("Введите день:");
             int n = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Результат: " + ds.FindDateOfPreviousDay(g, m, n));
-            Console.ReadKey();
+            string res = Convert.ToString(ds.FindDateOfPreviousDay(g, m, n));
+            Console.WriteLine(res);
+            Console.ReadLine();
         }
     }
 }

@@ -6,6 +6,7 @@ namespace Tyuiu.KornevRM.Sprint2.Task5.V12.Lib
     {
         public string FindDateOfPreviousDay(int g, int m, int n)
         {
+            string o = "0";
             int prevG = g;
             int prevM = m;
             int prevN = n;
@@ -72,7 +73,7 @@ namespace Tyuiu.KornevRM.Sprint2.Task5.V12.Lib
                 return year % 4 == 0 && (year % 100 != 0 || year % 400 == 0);
             }
 
-            string res = Convert.ToString(n) + "." + Convert.ToString(m) + "." + Convert.ToString(g);
+            string res = Convert.ToString(o+n) + "." + Convert.ToString(o+m) + "." + Convert.ToString(g);
             return res;
         }
 
