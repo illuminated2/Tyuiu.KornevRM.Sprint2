@@ -8,7 +8,7 @@ namespace Tyuiu.KornevRM.Sprint2.Task7.V7.Lib
         public bool CheckDotInShadedArea(double x, double y)
         {
             bool res;
-            if(y == x)
+            if(y != x)
             {
                 return true;
                 
