@@ -32,9 +32,9 @@ namespace Tyuiu.KornevRM.Sprint2.Task2.V8
             DataService ds = new DataService();
 
             bool res = ds.CheckDotInShadedArea(x, y);
-            Console.WriteLine("***********************************************************************");
-            Console.WriteLine("*РЕЗУЛЬТАТ:                                                           *");
-            Console.WriteLine("***********************************************************************");
+            Console.WriteLine("************************************************************************************");
+            Console.WriteLine("*РЕЗУЛЬТАТ:                                                                        *");
+            Console.WriteLine("************************************************************************************");
             if (res)
             {
                 Console.WriteLine("Точка находится в заштрихованной области");

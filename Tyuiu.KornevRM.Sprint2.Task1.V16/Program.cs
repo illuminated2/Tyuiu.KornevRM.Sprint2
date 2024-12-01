@@ -28,9 +28,9 @@ namespace Tyuiu.KornevRM.Sprint2.Task1.V16
             bool[] res = new bool[6];
             res = ds.GetLogicOperations(a, b, c, d);
 
-            Console.WriteLine("***********************************************************************");
-            Console.WriteLine("*ИСКХОДНЫЕ ДАННЫЕ:                                                    *");
-            Console.WriteLine("***********************************************************************");
+            Console.WriteLine("************************************************************************************");
+            Console.WriteLine("*РЕЗУЛЬТАТ:                                                                        *");
+            Console.WriteLine("************************************************************************************");
 
             Console.WriteLine("a = " + a);
             Console.WriteLine("b = " + b);
