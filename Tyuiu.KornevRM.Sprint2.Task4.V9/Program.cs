@@ -7,13 +7,13 @@ namespace Tyuiu.KornevRM.Sprint2.Task4.V9
         static void Main(string[] args)
         {
             DataService ds = new DataService();
-            Console.Title = "Спринт #2 | Выполнила: Корнев Р.М. | ИСПб-24-1";
+            Console.Title = "Спринт #2 | Выполнил: Корнев Р.М. | ИСПб-24-1";
             Console.WriteLine("*************************************************************************************");
             Console.WriteLine("* Спринт #2                                                                         *");
             Console.WriteLine("* Тема: Тернарный оператор                                                          *");
             Console.WriteLine("* Задание #4                                                                        *");
             Console.WriteLine("* Вариант #9                                                                        *");
-            Console.WriteLine("* Выполнила: Корнев Р.М. | ИСПб-24-1                                                *");
+            Console.WriteLine("* Выполнил: Корнев Р.М. | ИСПб-24-1                                                *");
             Console.WriteLine("*************************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                          *");
             Console.WriteLine("* Написать программу, которая вычисляет требуемое значение с использованием         *");
