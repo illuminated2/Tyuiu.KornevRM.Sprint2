@@ -6,13 +6,13 @@ namespace Tyuiu.KornevRM.Sprint2.Task1.V16
         static void Main(string[] args)
         {
             DataService ds = new DataService();
-            Console.Title = "Спринт #2 | Выполнила: Корнев Р.М. | ИСПб-24-1";
+            Console.Title = "Спринт #2 | Выполнил: Корнев Р.М. | ИСПб-24-1";
             Console.WriteLine("*************************************************************************************");
             Console.WriteLine("* Спринт #2                                                                         *");
             Console.WriteLine("* Тема: Логические операции                                                         *");
             Console.WriteLine("* Задание #1                                                                        *");
             Console.WriteLine("* Вариант #16                                                                       *");
-            Console.WriteLine("* Выполнила: Корнев Р.М. | ИСПб-24-1                                                *");
+            Console.WriteLine("* Выполнил: Корнев Р.М. | ИСПб-24-1                                                *");
             Console.WriteLine("*************************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                          *");
             Console.WriteLine("* Написать программу из операций сравнений (==, !=, <, >, <=, >=,                   *");
