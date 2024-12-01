@@ -6,13 +6,13 @@ namespace Tyuiu.KornevRM.Sprint2.Task2.V8
     {
         static void Main(string[] args)
         {
-            Console.Title = "Спринт #2 | Выполнила: Корнев Р.М. | ИСПб-24-1";
+            Console.Title = "Спринт #2 | Выполнил: Корнев Р.М. | ИСПб-24-1";
             Console.WriteLine("*************************************************************************************");
             Console.WriteLine("* Спринт #2                                                                         *");
             Console.WriteLine("* Тема: Оператор if – полная и короткая форма записи                                *");
             Console.WriteLine("* Задание #2                                                                        *");
             Console.WriteLine("* Вариант #8                                                                        *");
-            Console.WriteLine("* Выполнила: Корнев Р.М. | ИСПб-24-1                                                *");
+            Console.WriteLine("* Выполнил: Корнев Р.М. | ИСПб-24-1                                                *");
             Console.WriteLine("*************************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                          *");
             Console.WriteLine("* Написать программу на, которая запрашивает целые значения с клавиатуры и          *");
