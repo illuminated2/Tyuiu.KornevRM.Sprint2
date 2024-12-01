@@ -37,7 +37,7 @@ namespace Tyuiu.KornevRM.Sprint2.Task2.V8
             Console.WriteLine("************************************************************************************");
             if (res)
             {
-                Console.WriteLine("Точка находится в заштрихованной области");
+                Console.WriteLine("Точка находится в заштрихованной области ");
             }
             else
             {
