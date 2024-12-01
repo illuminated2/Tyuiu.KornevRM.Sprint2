@@ -8,13 +8,13 @@ namespace Tyuiu.KornevRM.Sprint2.Task3.V2
         {
             DataService ds = new DataService();
 
-            Console.Title = "Спринт #2 | Выполнила: Корнев Р.М. | ИСПб-24-1";
+            Console.Title = "Спринт #2 | Выполнил: Корнев Р.М. | ИСПб-24-1";
             Console.WriteLine("*************************************************************************************");
             Console.WriteLine("* Спринт #2                                                                         *");
             Console.WriteLine("* Тема: Вложенные операторы if - else                                               *");
             Console.WriteLine("* Задание #3                                                                        *");
             Console.WriteLine("* Вариант #2                                                                        *");
-            Console.WriteLine("* Выполнила: Корнев Р.М. | ИСПб-24-1                                                *");
+            Console.WriteLine("* Выполнил: Корнев Р.М. | ИСПб-24-1                                                *");
             Console.WriteLine("*************************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                          *");
             Console.WriteLine("* Написать программу, которая вычисляет требуемое значение функции Y с              *");
