@@ -7,13 +7,13 @@ namespace Tyuiu.KornevRM.Sprint2.Task5.V12
         static void Main(string[] args)
         {
             DataService ds = new DataService();
-            Console.Title = "Спринт #2 | Выполнила: Корнев Р.М. | ИСПб-24-1";
+            Console.Title = "Спринт #2 | Выполнил: Корнев Р.М. | ИСПб-24-1";
             Console.WriteLine("*************************************************************************************");
             Console.WriteLine("* Спринт #2                                                                         *");
             Console.WriteLine("* Тема: Оператор switch                                                             *");
             Console.WriteLine("* Задание #5                                                                        *");
             Console.WriteLine("* Вариант #12                                                                       *");
-            Console.WriteLine("* Выполнила: Корнев Р.М. | ИСПб-24-1                                                *");
+            Console.WriteLine("* Выполнил: Корнев Р.М. | ИСПб-24-1                                                 *");
             Console.WriteLine("*************************************************************************************");
             Console.WriteLine("* Задание:                                                                          *");
             Console.WriteLine("* Написать программу, которая использует оператор switch вычисляет                  *");
