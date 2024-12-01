@@ -6,13 +6,13 @@ namespace Tyuiu.KornevRM.Sprint2.Task7.V7
         static void Main(string[] args)
         {
            DataService ds = new DataService();
-            Console.Title = "Спринт #2 | Выполнила: Корнев Р.М. | ИСПб-24-1";
+            Console.Title = "Спринт #2 | Выполнил: Корнев Р.М. | ИСПб-24-1";
             Console.WriteLine("*************************************************************************************");
             Console.WriteLine("* Спринт #2                                                                         *");
             Console.WriteLine("* Тема: Добавление к решению итоговых проектов по спринту                           *");
             Console.WriteLine("* Задание #7                                                                        *");
             Console.WriteLine("* Вариант #7                                                                       *");
-            Console.WriteLine("* Выполнила: Корнев Р.М. | ИСПб-24-1                                                *");
+            Console.WriteLine("* Выполнил: Корнев Р.М. | ИСПб-24-1                                                *");
             Console.WriteLine("*************************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                          *");
             Console.WriteLine("* Написать программу на C#, которая запрашивает исходные данные                     *");
